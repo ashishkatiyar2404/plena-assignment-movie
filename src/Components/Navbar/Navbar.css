@@ -1,0 +1,43 @@
+.navbar {
+  background-color: #192026;
+  min-height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+.heading__main_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+  /* border: 1px solid white; */
+}
+.heading__container {
+  color: white;
+}
+
+.navbar__credential {
+  color: gray;
+}
+
+.links {
+  text-decoration: none;
+  margin: 0rem 0.5rem;
+  color: #4f5356;
+}
+.input__search {
+  /* border: 1px solid red; */
+  width: 20%;
+}
+
+.input__search input {
+  border-radius: 1rem;
+  background-color: #4f5356;
+  padding: 0.5rem;
+  outline: 0;
+  border: 0;
+  width: 80%;
+
+  /* margin-right: 1rem; */
+}
