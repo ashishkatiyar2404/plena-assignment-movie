@@ -1,0 +1,50 @@
+.home__container {
+  padding: 0 6rem;
+}
+.bg_image {
+  width: 80wh;
+  height: 50vh;
+}
+
+.bg_image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+
+.image_overlay {
+  position: absolute;
+  top: 60%;
+  left: 10%;
+}
+
+.image_overlay p {
+  word-wrap: break-word;
+  width: 40%;
+}
+
+/* SECTION 2 */
+.section__container2 {
+  height: 30vh;
+  margin: 1rem 0;
+}
+
+.cardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.loadMore {
+  text-align: center;
+}
+
+.loadMore button {
+  padding: 6px 14px;
+  border-radius: 6px;
+  border: none;
+  outline: 0;
+  cursor: pointer;
+  color: white;
+  background: #4f4e50;
+}

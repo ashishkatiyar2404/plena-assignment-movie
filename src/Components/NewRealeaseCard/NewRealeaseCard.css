@@ -1,0 +1,19 @@
+.realeaseCard {
+  width: 20%;
+  color: white;
+  margin: 1rem;
+  border-radius: 0.8rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.realeaseCard img {
+  width: 100%;
+  border-radius: 0.8rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+
+.movie__info {
+  padding: 0 0.5rem;
+  display: flex;
+  justify-content: space-between;
+}
